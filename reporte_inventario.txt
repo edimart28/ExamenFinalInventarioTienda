@@ -1,0 +1,4 @@
+1,arroz,granos,1000.0,22
+2,frijol,granos,1500.0,13
+3,lentejas,granos,900.0,15
+Valor total del inventario: 55000.0
